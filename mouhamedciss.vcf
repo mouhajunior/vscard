@@ -1,0 +1,37 @@
+DÉBUT : VCARTE
+VERSION : 3.0
+N:Cissé;Mohamed;;;
+FN : Mouhamed Cissé
+ORG :
+ADR;TYPE=TRAVAIL:Richard Toll
+TITRE : Développeur web
+TÉL;TYPE=CELLULE :
+TÉL;TYPE=TRAVAIL :
+TÉL;TYPE=ACCUEIL :
+TÉL;TYPE=MSG :
+EMAIL;TYPE=TRAVAIL :
+URL;TYPE=Carte de visite numérique :
+URL :
+
+CLÉ;TYPE=PGP;ENCODAGE=b :
+NOTE:
+UID:EnBizCard-100001057
+FIN: 
+VERSION DE LA CARTE VC:3.0 
+N:;;;; 
+FN : 
+ORG : 
+ADR;TYPE=WORK : 
+TITRE : 
+TEL;TYPE=CELL : 
+TEL;TYPE=WORK : 
+TEL;TYPE=HOME : 
+TEL;TYPE=MSG : 
+EMAIL;TYPE=WORK : 
+URL;TYPE=Carte de visite numérique : 
+URL : 
+
+KEY;TYPE=PGP;ENCODING=b : 
+REMARQUE : 
+UID :EnBizCard-100666446 
+FIN :VCARD
